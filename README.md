@@ -1,2 +1,2 @@
-This project was inspired by florin pop's 10 hour 10 projects  
-The project can be viewed online [here](https://react-movieapp.netlify.app).
+This project was inspired by [Florin Pop's](https://github.com/florinpop17) 10 projects 10 hours  
+The project can be viewed online [here](https://motionpicture-app.netlify.app).
